@@ -4,17 +4,17 @@ Welcome to Jarvis, your very own customizable personal assistant! Inspired by th
 
 ## Features:
 
-Voice Commands: Interact with Jarvis using natural language voice commands.
+1. Voice Commands: Interact with Jarvis using natural language voice commands.
 
-Task Automation: Automate repetitive tasks like managing schedules, reminders, and alarms.
+2. Task Automation: Automate repetitive tasks like managing schedules, reminders, and alarms.
 
-Search and Information Retrieval: Fetch information from the web, such as weather updates, news, or general queries.
+3. Search and Information Retrieval: Fetch information from the web, such as weather updates, news, or general queries.
 
-Email and Messaging: Manage and send emails or messages through voice commands.
+4. Email and Messaging: Manage and send emails or messages through voice commands.
 
-Media Control: Play music, videos, or podcasts using your preferred media applications.
+5. Media Control: Play music, videos, or podcasts using your preferred media applications.
 
-Extensibility: Add custom modules or plugins to expand Jarvis's functionality.
+6. Extensibility: Add custom modules or plugins to expand Jarvis's functionality.
 
 
 ## Prerequisites:
