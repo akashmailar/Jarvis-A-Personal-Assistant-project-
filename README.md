@@ -36,7 +36,7 @@ Follow these steps to set up Jarvis on your local machine:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/jarvis.git
+git clone https://github.com/akashmailar/Jarvis-A-Personal-Assistant-project-
 cd jarvis
 
 
@@ -44,10 +44,6 @@ cd jarvis
 
 pip install -r requirements.txt
 
-
-3. Configure settings:
-
-Rename config.example.json to config.json.
 
 Add your API keys for services like OpenAI, Google, or weather providers.
 
