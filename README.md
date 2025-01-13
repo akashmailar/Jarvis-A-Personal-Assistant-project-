@@ -1,4 +1,4 @@
-### Jarvis: A Personal Assistant Project
+### Jarvis: A Personal Assistant Python Project
 
 Welcome to Jarvis, your very own customizable personal assistant! Inspired by the idea of Tony Stark's AI from the Iron Man franchise, Jarvis is designed to help you automate tasks, improve productivity, and streamline day-to-day activities.
 
@@ -23,9 +23,7 @@ To run Jarvis, ensure you have the following installed:
 
 1. Python: Version 3.8 or later
 
-
 2. pip: Python's package manager
-
 
 3. Necessary libraries (listed in requirements.txt)
 
@@ -44,13 +42,12 @@ cd jarvis
 
 pip install -r requirements.txt
 
-
 Add your API keys for services like OpenAI, Google, or weather providers.
 
 
-4. Run Jarvis:
+3. Run Jarvis:
 
-python jarvis.py
+python main.py
 
 
 ## Usage:
@@ -67,7 +64,6 @@ Command-line interface: Use terminal commands for quick tasks.
 You can enhance Jarvis by creating custom modules:
 
 1. Add a new script in the modules folder.
-
 
 2. Follow the example module format to define commands and responses.
 
